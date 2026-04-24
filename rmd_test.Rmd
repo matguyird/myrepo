@@ -1,6 +1,5 @@
 ---
 title: "R markdown essai"
-output: html_document
 date: "2026-04-24"
 output: github_document
 ---
